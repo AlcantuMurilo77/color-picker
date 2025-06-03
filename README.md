@@ -37,4 +37,4 @@ This is a **simple Color Picker app** built with **React** and styled using **Ta
 
 ## Screenshot
 
-*You can add a screenshot here by placing an image (e.g., `screenshot.png`) in the root directory and referencing it in this section.*
+![Screenshot](screenshot.png)
